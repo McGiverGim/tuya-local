@@ -3,6 +3,9 @@ products:
   - id: j13qydx3msgu6vnq
     manufacturer: Zephir
     model: ZMW4000V
+  - id: auzhe6dre6kh4mrf
+    manufacturer: Cecotec
+    model: ReadyWarm 5350 PowerBox Ceramic Connected
 entities:
   - entity: climate
     translation_only_key: heater
